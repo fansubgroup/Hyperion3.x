@@ -141,7 +141,7 @@ class mainWin(QtWidgets.QMainWindow, Ui_mainWin):
                 if core.main(self.open_path):
                     QMessageBox.warning(self, "Oops", "Faild to translate")
                 else:
-                    QMessageBox.information(self, "Successful", "Translate done")
+                    QMessageBox.information(self, "Successful", "Translate done in Translation-result file")
             else:
                 QMessageBox.warning(self,"Oops","Please set you Language")
         else:
