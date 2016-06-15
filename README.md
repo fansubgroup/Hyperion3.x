@@ -1,7 +1,8 @@
 # Hyperion3.x
-Use Python3 and Qt5
 
-GUI realization base on Hyperion1.x
+Use Python3 and Qt5.
+
+GUI realization base on Hyperion1.x.
 
 #### You can enter the source language and target language according to your needs
 
@@ -130,17 +131,20 @@ GUI realization base on Hyperion1.x
 
 ### So, how to use these Symbol?
 
-* In the file, we have a file name `hyperion.conf`, in the first line of the file, is the `Source Language`
+* In the file, we have a file name `hyperion.conf`, in the first line of the file, is the `Source Language`.
 
-* And in the second line of the file, is the `Target Language`
+* And in the second line of the file, is the `Target Language`.
 
-* You can change it with you `text editor`
+* You can change it with you `text editor`.
 
 * Or, you can use this sofeware settings `dialog` to change it.
 
 
 #### However, please note that the use of the `text editor` to change this file should be the same as the original file format.
 
+* Do not leave `spaces` and other `special symbols` in the file.
+
+* Do not have `spaces` between the `source language` and the `target language`.
 
 ### Steps
 
@@ -151,6 +155,16 @@ GUI realization base on Hyperion1.x
 * If not, you can refer to the `above steps` to modify the settings to achieve you intended purpose.
 
 * In the end, if you use the default save location you will find that there is a directory called `Translation-result` in the current directory
+
+
+
+### Attention
+
+* The software can automatically read the account information strored in `app.conf`, so your attention to protect you account and password in order to avoid being stolen.
+
+* The next step may be to add a defferent user's swotching function, andt to achieve the user password encrytion storage.
+
+
 
 I hope you like this software, and if you have any idea about this software, you can contact me with this email address.
 
