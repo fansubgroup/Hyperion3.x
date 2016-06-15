@@ -154,4 +154,4 @@ GUI realization base on Hyperion1.x
 
 I hope you like this software, and if you have any idea about this software, you can contact me with this email address.
 
-* ####super_big_hero@sina.com
+* super_big_hero@sina.com
