@@ -128,22 +128,30 @@ GUI realization base on Hyperion1.x
 
 
 
-### So, how to use these language?
+### So, how to use these Symbol?
 
-In the file, we have a file name `hyperion.conf`, in the first line of the file, is the `Source Language`
+* In the file, we have a file name `hyperion.conf`, in the first line of the file, is the `Source Language`
 
-And in the second line of the file, is the `Target Language`
+* And in the second line of the file, is the `Target Language`
 
-You can change it with you `text editor`
+* You can change it with you `text editor`
 
-Or, you can use this sofeware settings `dialog` to change it.
+* Or, you can use this sofeware settings `dialog` to change it.
+
 
 #### However, please note that the use of the `text editor` to change this file should be the same as the original file format.
 
-### Use steps
 
-The first step you should choose a source file
+### Steps
 
-If you want to use the default configuration, that is, the English to Chinese translation, you can click on the `Translation file` button
+* The first step you should choose a source file which is `srt` file.
 
-If not, you can refer to the `above steps` to modify the settings to achieve you intended purpose.
+* If you want to use the default configuration, that is, the English to Chinese translation, you can click on the `Translation file` button now and wait a minntes.
+
+* If not, you can refer to the `above steps` to modify the settings to achieve you intended purpose.
+
+* In the end, if you use the default save location you will find that there is a directory called `Translation-result` in the current directory
+
+I hope you like this software, and if you have any idea about this software, you can contact me with this email address.
+
+* ####super_big_hero@sina.com####
