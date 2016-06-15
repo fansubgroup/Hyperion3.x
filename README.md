@@ -137,7 +137,7 @@ GUI realization base on Hyperion1.x.
 
 * You can change it with you `text editor`.
 
-* Or, you can use this sofeware settings `dialog` to change it.
+* Or, you can use this software settings `dialog` to change it.
 
 
 #### However, please note that the use of the `text editor` to change this file should be the same as the original file format.
@@ -162,7 +162,7 @@ GUI realization base on Hyperion1.x.
 
 * The software can automatically read the account information strored in `app.conf`, so your attention to protect you account and password in order to avoid being stolen.
 
-* The next step may be to add a defferent user's swotching function, andt to achieve the user password encrytion storage.
+* The next step may be to add a defferent user's switching function, andt to achieve the user password encrytion storage.
 
 
 
