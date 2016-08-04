@@ -4,6 +4,23 @@ Use Python3 and Qt5.
 
 GUI realization base on Hyperion1.x.
 
+![image](https://github.com/fansubgroup/Hyperion3.x/blob/master/hy1.jpg)
+
+## The first step we can click the `Menu -> Select file`
+we can found the `src` file which we want to translation
+![image](https://github.com/fansubgroup/Hyperion3.x/blob/master/hy2.jpg)
+
+## The second step we can click `Setting` button
+Enter you Appid and the ScrectKey, and also you can change the default language
+The click the `Apply` button
+![image](https://github.com/fansubgroup/Hyperion3.x/blob/master/hy3.jpg)
+
+## The next you can click the `Translation file` button
+and we can found the result file in your default save place like this
+![image](https://github.com/fansubgroup/Hyperion3.x/blob/master/hy4.jpg)
+![image](https://github.com/fansubgroup/Hyperion3.x/blob/master/hy5.jpg)
+![image](https://github.com/fansubgroup/Hyperion3.x/blob/master/hy6.jpg)
+
 #### You can enter the source language and target language according to your needs
 
 #### This coeerspondence table is here
